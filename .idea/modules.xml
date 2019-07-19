@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2_distributed_lock_mysql/springboot2_distributed_lock_mysql.iml" filepath="$PROJECT_DIR$/springboot2_distributed_lock_mysql/springboot2_distributed_lock_mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_elasticjob/springboot2_elasticjob.iml" filepath="$PROJECT_DIR$/springboot2_elasticjob/springboot2_elasticjob.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_graylog/springboot2_graylog.iml" filepath="$PROJECT_DIR$/springboot2_graylog/springboot2_graylog.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_graylog_log4j/springboot2_graylog_log4j.iml" filepath="$PROJECT_DIR$/springboot2_graylog_log4j/springboot2_graylog_log4j.iml" />
